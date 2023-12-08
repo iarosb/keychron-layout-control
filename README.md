@@ -1,5 +1,5 @@
 # keycrhon-layout-control
-A bash one-liner to change behavior of certain keys on Keychron keyboards in Ubuntu/Debian systems
+A written in Bash command to toggle a behavior of keys(functional vs multimedia) on Keychron® keyboards in Ubuntu/Debian systems
 
 # Installation and setup 
 1. Place ckeys(.sh) so that it's accessible via $PATH( /usr/local/bin - common location for all user's executables)
